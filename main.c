@@ -240,7 +240,6 @@ int main()
       // printing final bill
       printf("\n\n***** Total amount to be paid is : %f ******\n\n", billGST);
     }
-
     // print recipt
     else if (menuInput == 6)
     {
